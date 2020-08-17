@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find it on https://focused-elion-7f231f.netlify.app ! 
 
 ## Available Scripts
 
